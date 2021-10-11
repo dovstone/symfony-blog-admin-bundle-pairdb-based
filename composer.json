@@ -1,0 +1,24 @@
+{
+  "name": "dovstone/symfony-blog-admin-bundle-paridb-based",
+  "description": "A Symfony Blog Administrator based on PairDB",
+  "type": "symfony-bundle",
+  "keywords": ["dovstone","symfony","blog","admin","pairdb"]
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dovstone",
+      "email": "silveredovoui@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability":"dev",
+  "require": {
+    "php": "^7.1.3",
+    "dovstone/pairdb": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "DovStone\\Bundle\\SymfonyBlogAdminBundlePairDBBased\\": "src/"
+    }
+  }
+}
