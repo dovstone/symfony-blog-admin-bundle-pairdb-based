@@ -1,5 +1,5 @@
 {
-  "name": "dovstone/symfony-blog-admin-bundle-paridb-based",
+  "name": "dovstone/symfony-blog-admin-bundle-pairdb-based",
   "description": "A Symfony Blog Administrator based on PairDB",
   "type": "symfony-bundle",
   "keywords": ["dovstone","symfony","blog","admin","pairdb"],
